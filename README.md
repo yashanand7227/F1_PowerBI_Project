@@ -4,7 +4,7 @@ This project is a Power BI dashboard built to visualize and analyze the history 
 
 > 📊 Built with Power BI  
 > 📁 `.pbix` file included in this repo  
-> 📡 Data Source: [Kaggle Dataset – Formula 1 World Championship (1950–2020)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+> 📡 Data Source: [Kaggle Dataset – Formula 1 World Championship (1950–2024)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2024)
 
 ---
 
